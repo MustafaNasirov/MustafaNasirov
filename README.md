@@ -32,7 +32,7 @@ Have a look at my Web Portfolio at https://mustafanasirov.github.io/WebPortfolio
 
 <img src="https://github-readme-stats.vercel.app/api?username=MustafaNasirov&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="42.5%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaNasirov&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
